@@ -11,4 +11,4 @@ Este proyecto consta de los siguientes elementos de desarrollo de software:
 - Librerías:
   - collections, datetime, json, matplotlib.pyplot, os, pymongo, pymysql, , tkinter, TIL, typing, wordcloud.
 ### Colaborador:
-	carlosIMAT
+[@carlosIMAT](https://github.com/carlosIMAT)
