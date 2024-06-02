@@ -1,4 +1,4 @@
-# Proyecto Final de Bases de Datos- Reviews de Amazon
+# Proyecto de Bases de Datos- Reviews de Amazon
 ### Descripción
 El proyecto consiste en el desarrollo de una infraestructura de datos para almacenar las reviews de productos de Amazon. Además, se han obtenido varias visualizaciones sobre los datos, tanto en gráficos como en grafos.
 
